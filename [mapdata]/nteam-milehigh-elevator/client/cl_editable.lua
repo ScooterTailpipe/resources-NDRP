@@ -8,7 +8,7 @@ Config.Type = "target" -- target | point  (target = ox_target | point = ox_lib p
 
 
 -- Ox_lib points --
-Config.DrawMarker = true  -- ox_lib points only
+Config.DrawMarker = false  -- ox_lib points only
 Config.Distance = 2
 Config.Marker = 2
 Config.MarkerSize = { x = 0.3, y = 0.3, z = 0.3 }
