@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapParentTxds>
+ <txdRelationships>
+  <Item>
+   <parent>nteam_hospital1</parent>
+   <child>nteam_hospital</child>
+  </Item>
+  <Item>
+   <parent>nteam_hospital2</parent>
+   <child>nteam_hospital1</child>
+  </Item>
+  <Item>
+   <parent>nteam_hospital3</parent>
+   <child>nteam_hospital2</child>
+  </Item>
+ </txdRelationships>
+</CMapParentTxds>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapParentTxds>
+ <txdRelationships>
+  <Item>
+   <parent>nteam_pd_textures1</parent>
+   <child>nteam_pd_textures</child>
+  </Item>
+  <Item>
+   <parent>nteam_pd_textures2</parent>
+   <child>nteam_pd_textures1</child>
+  </Item>
+  <Item>
+   <parent>nteam_pd_textures3</parent>
+   <child>nteam_pd_textures2</child>
+  </Item>
+  <Item>
+   <parent>nteam_pd_textures4</parent>
+   <child>nteam_pd_textures3</child>
+  </Item>
+   <Item>
+   <parent>nteam_pd_textures5</parent>
+   <child>nteam_pd_textures4</child>
+  </Item>
+   <Item>
+   <parent>nteam_pd_textures6</parent>
+   <child>nteam_pd_textures5</child>
+  </Item>
+  <Item>
+   <parent>nteam_pd_textures7</parent>
+   <child>nteam_pd_textures6</child>
+  </Item>
+ </txdRelationships>
+</CMapParentTxds>
