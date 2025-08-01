@@ -1,0 +1,37 @@
+ Update 2.0 - 2/27/23
+Leg tattoo’s are working, so all tattoos can be used. Face, Torso, Legs
+Cleaner Ankle seam, adjusted normals on the ankle to blend with the feet better.
+If you have already purchased you can re-download from granted assets at this link.
+https://keymaster.fivem.net/asset-grants 108
+
+ Update 3.0 - 3/17/23
+Added Male Version, still a work in progress. But now the skin tones are closer to the female version. And the quality is increased over vanilla.
+Package is now called “xtxvxtx_female_male_body_remastered” and is re-issued if you have purchased this mod. Just download it from the keymaster link below and delete the old “xtxvxtx_female_textures”.
+
+ Update 4.0 - 3/30/23
+Works with all Direct X Version now!
+No longer are players restricted to having to use Dirext X 11 engine, works with DXT10, DXT10.1!
+Be sure to delete the whole resource before re-installing any updates.
+
+ Update 4.5 - 8/23/23
+Tutorial video for enabling the nude option created by Lerex added
+Added fit Female six pack upper body (torso/arms option #10)
+Reworked Head/Face Textures to retain more vanilla details for players who do not use makeup.
+
+ Update 4.6 - 11/19/2023
+Adjusted animation weights to clean up the torso animations.
+
+ Update 4.7 - 2/9/2024
+Fixed Color banding on the dark skin tones
+
+ Update 4.8 - 3/9/2024
+Replaced uppr/torso/hands #13 with a more slender torso version.
+
+ Update 4.9 - 3/11/2024
+Reworked leg calves to fix vanilla boot clipping.
+
+ Update 4.9.1 - 10/16/2024
+Reworked Arm/Torso #0 to try and fix any crash issues.
+
+ Update 4.9.2 - 1/18/2025
+Added Romper comtapible legs from the Dec 2024 update.
