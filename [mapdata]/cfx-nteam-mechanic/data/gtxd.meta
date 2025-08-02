@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapParentTxds>
+ <txdRelationships>
+  <Item>
+   <parent>nteam_mechanic_tx1</parent>
+   <child>nteam_mechanic_tx</child>
+  </Item>
+  <Item>
+   <parent>nteam_mechanic_tx2</parent>
+   <child>nteam_mechanic_tx1</child>
+  </Item>
+  <Item>
+   <parent>nteam_mechanic_tx3</parent>
+   <child>nteam_mechanic_tx2</child>
+  </Item>
+  <Item>
+   <parent>nteam_mechanic_tx4</parent>
+   <child>nteam_mechanic_tx3</child>
+  </Item>
+   <Item>
+   <parent>nteam_mechanic_tx5</parent>
+   <child>nteam_mechanic_tx4</child>
+  </Item>
+   <Item>
+   <parent>nteam_mechanic_tx6</parent>
+   <child>nteam_mechanic_tx5</child>
+  </Item>
+ </txdRelationships>
+</CMapParentTxds>
