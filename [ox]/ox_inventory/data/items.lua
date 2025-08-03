@@ -822,5 +822,6 @@ return {
   ["manual_gearbox"] = {
     label = "Manual Gearbox",
     weight = 1000,
-},
+  },
+}  
 
