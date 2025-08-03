@@ -21,8 +21,8 @@ Config.UseCustomSeatbeltIntegration = false -- Enable to use a third-party seatb
 Config.SeatbeltKeybind = "B"
 Config.PreventExitWhileBuckled = true
 Config.DisablePassengerSeatbelts = false
-Config.MinSpeedMphEjectionSeatbeltOff = 20.0
-Config.MinSpeedMphEjectionSeatbeltOn = 100.0
+Config.MinSpeedMphEjectionSeatbeltOff = 60.0
+Config.MinSpeedMphEjectionSeatbeltOn = 150.0
 Config.DisableSeatbeltInEmergencyVehicles = true
 
 -- Default component displays
@@ -34,7 +34,7 @@ Config.ShowComponents = {
   serverId = true,
   time = true,
   job = true,
-  gang = false,
+  gang = true,
   bankBalance = true,
   cashBalance = true,
   dirtyMoneyBalance = false,

@@ -24,11 +24,11 @@ Config.TabletConnectionMaxDistance = 4.0
 
 -- Shops
 Config.Target = "ox_target" -- (shops/stashes only) "qb-target" or "ox_target"
-Config.UseSocietyFund = true -- set to false to use player balance
+Config.UseSocietyFund = false -- set to false to use player balance
 Config.PlayerBalance = "bank" -- or "bank" or "cash"
 
 -- Skill Bars
-Config.UseSkillbars = true -- set to false to use progress bars instead of skill bars for installations
+Config.UseSkillbars = false -- set to false to use progress bars instead of skill bars for installations
 Config.ProgressBarDuration = 10000 -- if not using skill bars, this is the progress bar duration in ms (10000 = 10 seconds)
 Config.MaximumSkillCheckAttempts = 3 -- How many times the player can attempt a skill check before the skill check fails
 Config.SkillCheckDifficulty = { "easy", "easy", "easy", "easy", "easy" } -- for ox only
@@ -105,36 +105,7 @@ Config.DisableNoPaymentOptionForEmployees = false
 
 -- Mechanic Locations
 Config.MechanicLocations = {
-  bennys = {
-    type = "self-service",
-    logo = "bennys.png", -- logos go in /logos
-    locations = {
-      {
-        coords = vector3(-207.97, -1322.44, 30.49),
-        size = 8.0,
-        showBlip = true,
-      }
-    },
-    blip = {
-      id = 446,
-      color = 47,
-      scale = 0.7
-    },
-    mods = {
-      repair           = { enabled = true, price = 500, percentVehVal = 0.01 },
-      performance      = { enabled = true, price = 500, percentVehVal = 0.01, priceMult = 0.1 },
-      cosmetics        = { enabled = true, price = 500, percentVehVal = 0.01, priceMult = 0.1 },
-      stance           = { enabled = true, price = 500, percentVehVal = 0.01 },
-      respray          = { enabled = true, price = 500, percentVehVal = 0.01 },
-      wheels           = { enabled = true, price = 500, percentVehVal = 0.01, priceMult = 0.1 },
-      neonLights       = { enabled = true, price = 500, percentVehVal = 0.01 },
-      headlights       = { enabled = true, price = 500, percentVehVal = 0.01 },
-      tyreSmoke        = { enabled = true, price = 500, percentVehVal = 0.01 },
-      bulletproofTyres = { enabled = true, price = 500, percentVehVal = 0.01 },
-      extras           = { enabled = true, price = 500, percentVehVal = 0.01 }
-    },
-  },
-  lscustoms = {
+    lscustoms = {
     type = "owned",
     job = "mechanic",
     jobManagementRanks = {4},
@@ -148,10 +119,13 @@ Config.MechanicLocations = {
       },
       {
         coords = vector3(-332.37, -1367.82, 31.51),
+        coords = vector3(-340.04, -1368.01, 31.48),
+        coords = vector3(-347.55, -1367.42, 31.22),
+        coords = vector3(-348.4, -1352.2, 31.16),
         size = 3.0,
         showBlip = false,
         employeeOnly = true,
-      }
+      },
     },
     blip = {
       id = 446,

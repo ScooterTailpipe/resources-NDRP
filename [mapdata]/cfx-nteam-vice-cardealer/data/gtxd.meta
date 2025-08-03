@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapParentTxds>
+ <txdRelationships>
+  <Item>
+   <parent>nteam_vice_car_dealer1</parent>
+   <child>nteam_vice_car_dealer</child>
+  </Item>
+  <Item>
+   <parent>nteam_vice_car_dealer2</parent>
+   <child>nteam_vice_car_dealer1</child>
+  </Item>
+  <Item>
+   <parent>nteam_vice_car_dealer3</parent>
+   <child>nteam_vice_car_dealer2</child>
+  </Item>
+  <Item>
+   <parent>nteam_vice_car_dealer4</parent>
+   <child>nteam_vice_car_dealer3</child>
+  </Item>
+ </txdRelationships>
+</CMapParentTxds>
