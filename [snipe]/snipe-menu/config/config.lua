@@ -31,7 +31,7 @@ Config.FrameworkTriggers = {
 
 
 
-Config.Discord = "https://discord.gg/yourdiscord" -- discord link to show when you ban a player in the ban message
+Config.Discord = "https://discord.com/channels/1395829824785744063/1401718680907284593" -- discord link to show when you ban a player in the ban message
 
 Config.ShowInGameNames = true -- to show the in game names of the players in player list (if your server lags a lot, please set this to false)
 
