@@ -7,12 +7,12 @@
       <fMass value="664.000000" />
       <fInitialDragCoeff value="12.0000" />
       <fDownforceModifier value="1.075" />
-      <fPercentSubmerged value="85.000000" />
+      <fPercentSubmerged value="110.000000" />
       <vecCentreOfMassOffset x="0.0000" y="0.00" z="0.1500" />
       <vecInertiaMultiplier x="1.25000" y="1.2500" z="1.50" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
-      <fInitialDriveForce value="0.15000" />
+      <fInitialDriveForce value="0.25000" />
       <fDriveInertia value="1.000000" />
       <fClutchChangeRateScaleUpShift value="2.0000" />
       <fClutchChangeRateScaleDownShift value="2.00" />
