@@ -2,11 +2,14 @@
 -- https://discord.gg/HCQutNhxWt
 
 fx_version 'cerulean'
-game 'gta5'
+game {'gta5'}
 author 'grzyClothTool'
+
+data_file 'SHOP_PED_APPAREL_META_FILE' 'mp_f_freemode_01_scrlt_vv_swarovski_cropped_top.meta'
+
 
 files {
   'mp_f_freemode_01_scrlt_vv_swarovski_cropped_top.meta'
 }
 
-data_file 'SHOP_PED_APPAREL_META_FILE' 'mp_f_freemode_01_scrlt_vv_swarovski_cropped_top.meta'
+
